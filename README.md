@@ -1,3 +1,3 @@
 # Used_Car_Martketing_Analysis
-KNN Regression, Linear Regression, Random forest
+KNN Regression, Linear Regression, Random forest.
 The goal of our project is to predict the price or price range for the used cars in the market. The price of a used car may be affected by many factors like the year of registration, kilometers, brand, power and so on. We want to find out how those variables will affect the price of the used car and we want to provide the sellers and buyers with some models to help them decide the price they should put on the website. For sellers, a proper price can guarantee their benefits. For buyers, they can also use the predicting result as a guide when making decisions.

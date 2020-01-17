@@ -1,3 +1,3 @@
 # Used_Car_Martketing_Analysis
-KNN Regression, Linear Regression, Random forest.
+KNN Regression, Linear Regression, Random Forest.
 
